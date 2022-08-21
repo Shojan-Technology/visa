@@ -13,7 +13,11 @@ deploy to staging env
 echo good job.
 Tested and accepted
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> stage
+=======
+
+>>>>>>> 42f2e17 (tested and approved by the client QA teaam)
 
