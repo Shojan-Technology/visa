@@ -12,8 +12,5 @@ deployment4
 deploy to staging env
 echo good job.
 Tested and accepted
-<<<<<<< HEAD
-=======
 
->>>>>>> 9403f5e (conflict 2 resolved)
 
